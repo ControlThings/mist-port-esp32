@@ -1,0 +1,6 @@
+[submodule "deps/wish-c99"]
+	path = deps/wish-c99
+	url = git@github.com:ControlThings/wish-c99.git
+[submodule "deps/mist-c99"]
+	path = deps/mist-c99
+	url = git@github.com:ControlThings/mist-c99.git
